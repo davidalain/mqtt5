@@ -6,6 +6,9 @@ This is based on mqtt5 example from ESP-IDF.
 - Framework: ESP-IDF
 - Code: MQTT5
 
+## Note
+*Be patient. A full build of this project takes many minutes.*
+
 
 # Information
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-C5 | ESP32-C6 | ESP32-C61 | ESP32-H2 | ESP32-P4 | ESP32-S2 | ESP32-S3 |
