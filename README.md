@@ -1,4 +1,13 @@
-<<<<<<< HEAD
+
+# MQTT5 Example for ESP32
+This is based on mqtt5 example from ESP-IDF.
+
+- Board: ESP32-WROOM-32D (ESP32 dev kit)
+- Framework: ESP-IDF
+- Code: MQTT5
+
+
+# Information
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-C5 | ESP32-C6 | ESP32-C61 | ESP32-H2 | ESP32-P4 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- | -------- | -------- | --------- | -------- | -------- | -------- | -------- |
 
@@ -77,12 +86,3 @@ I (8129) MQTT5_EXAMPLE: MQTT_EVENT_UNSUBSCRIBED, msg_id=55594
 I (8139) mqtt_client: Client asked to disconnect
 I (9159) MQTT5_EXAMPLE: MQTT_EVENT_DISCONNECTED
 ```
-=======
-# mqtt5
-MQTT5 Example for ESP32.
-This is based on mqtt5 example from ESP-IDF.
-
-- Board: ESP32-WROOM-32D (ESP32 dev kit)
-- Framework: ESP-IDF
-- Code: MQTT5
->>>>>>> b974b6560a29fade7a15b5656cea6f8fc1e627db
