@@ -6,8 +6,8 @@ This is based on mqtt5 example from ESP-IDF.
 - Framework: ESP-IDF
 - Code: MQTT5
 
-## Note
-*Be patient. A full build of this project takes many minutes.*
+> [!NOTE]
+> *Be patient. A full build of this project takes many minutes.*
 
 
 # Information
